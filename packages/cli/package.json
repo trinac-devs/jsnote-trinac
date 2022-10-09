@@ -1,6 +1,6 @@
 {
   "name": "jsnote-trinac",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "files": [
     "dist"
@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsnote-trinac/local-api": "^1.0.1",
+    "@jsnote-trinac/local-api": "^1.0.2",
     "commander": "^9.4.1"
   },
   "devDependencies": {
