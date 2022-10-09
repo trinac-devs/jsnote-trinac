@@ -1,0 +1,2 @@
+(this.webpackJsonpjbook=this.webpackJsonpjbook||[]).push([[52],{232:function(e,a){Prism.languages.brainfuck={pointer:{pattern:/<|>/,alias:"keyword"},increment:{pattern:/\+/,alias:"inserted"},decrement:{pattern:/-/,alias:"deleted"},branching:{pattern:/\[|\]/,alias:"important"},operator:/[.,]/,comment:/\S+/}}}]);
+//# sourceMappingURL=52.9f56f9fe.chunk.js.map
