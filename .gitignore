@@ -4,9 +4,11 @@ build
 dist
 node_modules
 
+
 # dependencies
 /node_modules
 /.pnp
+/packages/local-client/build
 .pnp.js
 
 # testing
